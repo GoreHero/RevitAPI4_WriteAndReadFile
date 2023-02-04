@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L3_ReadDataTxt.dll</Assembly>
+		<AddInId>DA9B3C1C-E888-4415-A006-49A6DD5614D5</AddInId>
+		<FullClassName>RevitAPI_L3_ReadDataTxt.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение данных из текстового файла</Text>
+	</AddIn>
+</RevitAddIns>

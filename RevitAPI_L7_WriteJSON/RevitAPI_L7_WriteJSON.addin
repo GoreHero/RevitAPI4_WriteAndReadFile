@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L7_WriteJSON.dll</Assembly>
+		<AddInId>0B72EBBD-5AF5-4745-B555-1F83363F80AB</AddInId>
+		<FullClassName>RevitAPI_L7_WriteJSON.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись Данных в файл JSON</Text>
+	</AddIn>
+</RevitAddIns>

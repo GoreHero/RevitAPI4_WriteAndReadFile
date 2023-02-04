@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L2_WriteDataTxt.dll</Assembly>
+		<AddInId>E9CD3735-8016-4A27-87E6-78D6B15E86DD</AddInId>
+		<FullClassName>RevitAPI_L2_WriteDataTxt.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись данных в текстовый файл</Text>
+	</AddIn>
+</RevitAddIns>

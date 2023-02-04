@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_W1_OutputValue.dll</Assembly>
+		<AddInId>BD7075E2-C710-4AE9-A07B-B801E361FFBF</AddInId>
+		<FullClassName>RevitAPI_W1_OutputValue.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Вывод значения стен(Тип,Объем)</Text>
+	</AddIn>
+</RevitAddIns>

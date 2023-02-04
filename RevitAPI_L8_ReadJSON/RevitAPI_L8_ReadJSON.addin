@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L8_ReadJSON.dll</Assembly>
+		<AddInId>F831611A-4F09-463B-AB60-195911D020B0</AddInId>
+		<FullClassName>RevitAPI_L8_ReadJSON.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение данных из файла JSON</Text>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI_L5_WriteExcel.dll</Assembly>
+		<AddInId>3396898D-94BD-4C94-8682-CC40ADFFC801</AddInId>
+		<FullClassName>RevitAPI_L5_WriteExcel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись данных в Excel</Text>
+	</AddIn>
+</RevitAddIns>
